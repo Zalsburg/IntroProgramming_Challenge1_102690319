@@ -1,0 +1,7 @@
+C:\Users\Zali\Documents\Cert IV in IT\GitHub\IntroProgramming_Challenge1_102690319\Challenge 1\Challenge 1\bin\Debug\Challenge 1.exe.config
+C:\Users\Zali\Documents\Cert IV in IT\GitHub\IntroProgramming_Challenge1_102690319\Challenge 1\Challenge 1\bin\Debug\Challenge 1.exe
+C:\Users\Zali\Documents\Cert IV in IT\GitHub\IntroProgramming_Challenge1_102690319\Challenge 1\Challenge 1\bin\Debug\Challenge 1.pdb
+C:\Users\Zali\Documents\Cert IV in IT\GitHub\IntroProgramming_Challenge1_102690319\Challenge 1\Challenge 1\obj\Debug\Challenge 1.csprojAssemblyReference.cache
+C:\Users\Zali\Documents\Cert IV in IT\GitHub\IntroProgramming_Challenge1_102690319\Challenge 1\Challenge 1\obj\Debug\Challenge 1.csproj.CoreCompileInputs.cache
+C:\Users\Zali\Documents\Cert IV in IT\GitHub\IntroProgramming_Challenge1_102690319\Challenge 1\Challenge 1\obj\Debug\Challenge 1.exe
+C:\Users\Zali\Documents\Cert IV in IT\GitHub\IntroProgramming_Challenge1_102690319\Challenge 1\Challenge 1\obj\Debug\Challenge 1.pdb
